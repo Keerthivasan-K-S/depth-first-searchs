@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Keerthivasan K S</h3>
-<h3>Register Number: 212224230120  </h3>
+<h3>Name: S.Junaid Sardar</h3>
+<h3>Register Number: 212224100028  </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -54,7 +54,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<h3>program:</h3>
+<h3>Program:</h3>
 <p>
 <code>
 from collections import defaultdict
@@ -100,7 +100,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-<img src ="Screenshot 2025-04-23 160945.png">
+<img width="1298" height="245" alt="o1" src="https://github.com/user-attachments/assets/e7d1560d-4d13-47d7-8dbd-8956be622891" />
+
 <hr>
 
 <hr>
@@ -115,7 +116,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-<img src = "Screenshot 2025-04-24 124027.png">
+<img width="1214" height="221" alt="o2" src="https://github.com/user-attachments/assets/8289038d-c10b-407c-b845-6dce94b8b81a" />
+
 <hr>
 <h3>Result:</h3>
 <hr>
